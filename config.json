@@ -1,0 +1,10 @@
+{
+  "websites": [
+    "https://www.google.com",
+    "https://www.github.com",
+    "https://www.example.com"
+  ],
+  "interval": 60,
+  "maxRetries": 3,
+  "responseTimeMax": 2000
+}
